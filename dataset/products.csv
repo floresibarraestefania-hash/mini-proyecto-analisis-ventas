@@ -1,1 +1,14 @@
-
+product_id,product_name,category,price
+P001, Chocolate Bar  ,Snacks,15.00
+P002,Chips  ,Snacks,18
+P003,Coffee Beans,Beverages,120
+P004,Espresso Machine ,Appliances,1999
+P005,Milk 1Lt ,Beverages,  22
+P006,Sparkling Water,Beverages,12
+P007,Chewing Gum,Snacks,5
+P008,Chocolate bar,Snacks,15.50
+P009,Chpis,Snacks,18
+P010,Instant Coffee,Beverages,95
+P002,Chips,Snacks,18
+P011,,Snacks,10
+P012,Energy Drink,Beverages,
