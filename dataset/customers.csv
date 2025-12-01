@@ -1,0 +1,11 @@
+customer_id,full_name,email,phone,city
+C001,Ana Lopez,ana.lopez@gmail.com,5522334455,Mexico City
+C002,juan perez,Juan.Perez@gmail ,5544332211,Mexico City
+C003,Maria  Garcia,,5511223344,Guadalajara
+C004,CARLOS HERRERA,carlos.herrera@hotmail.com,55-22-33-44,Monterrey
+C005,Ana L. Lopez,ana.lopez@gmail.com,5522334455,Mexico City
+C006,,cliente.noemail@outlook.com,5588991122,Puebla
+C007,Jose Martinez,jose.mtz@gmail.com,5566778899,Guadalajara
+C008,jose  martinez,jose.mtz@gmail.com,5566778899,Guadalajara
+C009,Julia Santos,julia.santos@gmail.com,,Monterrey
+C010,Pedro Rmz,pedro.ramirez@gmail.com,55 77 33 11,San Luis Potosi
